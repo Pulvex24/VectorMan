@@ -9,3 +9,5 @@ El juego vectorman tal vez no fue tan importante en su infancia, pero prometo qu
 - un articulo de no mas de 6 paginas explicando que hicieron 
 - FORMATO IEEE conferencia. 
 - Rodigo mejorado en un repositorio en github
+
+**PD:** para importar vectorman solo deben colocarlo en la carpeta rom de su entorno de trabajo y ejecutar el import script
