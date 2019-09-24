@@ -5,12 +5,23 @@ El juego vectorman tal vez no fue tan importante en su infancia, pero prometo qu
 #### Entregable
   - Pueden usar Human behaviour cloning, (aprender de los usuarios) o Q learning,
   - Se entrega un video de bitacora
-  - un articulo de no mas de 6 paginas explicando que hicieron 
+  - Un articulo de no mas de 6 paginas explicando que hicieron 
   - FORMATO IEEE conferencia. 
   - Rodigo mejorado en un repositorio en github
 
 **PD:** para importar vectorman solo deben colocarlo en la carpeta rom de su entorno de trabajo y ejecutar el import script
 
+Si es primera vez que copias o clonas el repositorio, para que funcione debes de serguir lo siguentes pasos.
+
+**Recuerda primero crear tu entorno virtual de python.**
+
+```console
+pip3 install -r requeriment.txt
+
+python3 -m retro.import roms
+```
+
+Contenido original
 
 ```
 import retro
